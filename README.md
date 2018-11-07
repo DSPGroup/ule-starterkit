@@ -1,6 +1,12 @@
 # ULE Starter Kit
 
-Welcome! Here you can get support for the [ULE Starter Kit](https://www.dspg.com/developers).
+Welcome! Here you can find the latest releases and support for the [ULE Starter Kit](https://www.dspg.com/developers).
+
+## Download
+
+Check the [releases page](https://github.com/dspgroup/ule-starterkit/releases) for the latest package.
+
+## Support
 
 Before asking questions, please make sure to search the
 [Wiki](https://github.com/dspgroup/ule-starterkit/wiki) for answers to commonly asked questions. If we could not help you, yet, please use the
