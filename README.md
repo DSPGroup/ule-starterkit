@@ -4,7 +4,9 @@ Welcome! Here you can find the latest releases and support for the [ULE Starter 
 
 ## Download
 
-Check the [releases page](https://github.com/dspgroup/ule-starterkit/releases) for the latest package.
+The [lastest release](https://github.com/DSPGroup/ule-starterkit/releases/latest) is v1.1.
+
+Check the [releases page](https://github.com/dspgroup/ule-starterkit/releases) for all available versions.
 
 ## Support
 
